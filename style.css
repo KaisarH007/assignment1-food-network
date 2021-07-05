@@ -8,6 +8,7 @@ body p{
 }
 h1{
     font-size: 50px;
+    
 }
 h2{
     font-size: 40px;
@@ -87,12 +88,22 @@ h2{
 .recipies-title img{
     width: 100%;
 }
-.sosial-container{
+.social-container{
     display: flex;
     padding: 2%;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
     margin-bottom: 5%;
     box-shadow: 10px 20px 40px grey;
     border-radius: 30px;
+}
+.social-media{
+    padding: 2%;
+    width: 32%;
+}
+.footer-bacground{
+    background-color: black;
+    text-align: center;
+    padding: 2% 5%;
+    
 }
