@@ -6,6 +6,26 @@ body{
 body p{
     font-size: 20px;
 }
+
+.menu{
+    background-color: black;
+    text-align:center;
+
+}
+.menu ul{
+    display: inline-flex;
+    margin: 50px;
+    
+}
+.menu ul li{
+    list-style: none;
+    margin: 0 20px;
+    color: rgb(45, 76, 109);
+    cursor: pointer;
+    font-weight: 900;
+    
+}
+
 h1{
     font-size: 50px;
     
