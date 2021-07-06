@@ -116,12 +116,13 @@ h2{
 }
 .social-container{
     display: flex;
-    padding: 2%;
+    padding: 2% 2% 2% 2%;
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 5%;
     box-shadow: 10px 20px 40px grey;
     border-radius: 30px;
+    text-align: center;
 }
 .social-media{
     padding: 2%;
